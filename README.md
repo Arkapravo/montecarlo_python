@@ -13,7 +13,7 @@ montecarlo1.py
 
 montecarlo2.py
 --------------
-![Image Alt](https://lh5.googleusercontent.com/-r_cRltaLCME/UNVvg3dQpXI/AAAAAAAACKQ/D_x5z4Hbe5Q/s912/2_mcp.jpg)
+![Image Alt](https://lh6.googleusercontent.com/-mczgCbYw4lk/UNXyzQF3BII/AAAAAAAACLk/llQ1lAPkACo/s912/2_mcp_1.jpg)
 
 montecarlo3.py
 --------------
