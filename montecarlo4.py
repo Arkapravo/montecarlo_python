@@ -1,5 +1,5 @@
 # Montecarlo method to find pi	in 3D
-# A cylinder is constructed such that a unit cube just fits inside it, (Volume of Cylinder/Volume of Cube) = pi/2
+# A cylinder is constructed with unit radius such that a cube just fits inside it, (Volume of Cylinder/Volume of Cube) = pi/2
 
 # count is a count of the number of random points inside the sphere
 # count_inside is a count of the number of random points inside the cube
