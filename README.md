@@ -1,4 +1,24 @@
 montecarlo_python
 =================
 
-montecarlo methods applied to 2D and 3D geometries
+montecarlo methods applied to 2D and 3D geometries.
+
+montecarlo methods
+-----------------
+montecarlo methods rely on the fact that over sufficiently large distributions, randomness is evenly distributed. In these python scripts, the value of pi is calcuated with circumscribed and inscribed geomteries. Choosing random poins in space and taking a ratio of such points over the 2 geometries across a large number of observations give a fair estimation of the value of pi
+
+montecarlo1.py
+-------------
+![Image Alt](https://lh4.googleusercontent.com/-dvPExgisqv0/UNVvhDbqKDI/AAAAAAAACKY/P7TUpE7oqIo/s912/1_mcp.jpg)
+
+montecarlo2.py
+--------------
+![Image Alt](https://lh5.googleusercontent.com/-r_cRltaLCME/UNVvg3dQpXI/AAAAAAAACKQ/D_x5z4Hbe5Q/s912/2_mcp.jpg)
+
+montecarlo3.py
+--------------
+![Image Alt](https://lh6.googleusercontent.com/-aqikfDOQtoM/UNVvhPGgcMI/AAAAAAAACKU/lb4CCz2jPXk/s912/3_mcp.jpg)
+
+montecarlo4.py
+--------------
+![Image Alt](https://lh3.googleusercontent.com/-QysoJOpfxuA/UNVvi61CVAI/AAAAAAAACKk/YU1xYq2ZqWQ/s912/4_mcp.jpg)
