@@ -1,5 +1,6 @@
 montecarlo_python
 =================
+Author : Arkapravo Bhaumik (arkapravobhaumik@gmail.com)
 
 montecarlo methods applied to 2D and 3D geometries.
 
